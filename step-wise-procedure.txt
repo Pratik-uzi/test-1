@@ -4,4 +4,10 @@
    c) setup.py
 
 2) Src folder and build package
+   a) logger.py
+   b) exception.py
+   c) logger.py
+   d) build package
+   
+
   
