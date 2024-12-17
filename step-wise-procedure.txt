@@ -1,0 +1,7 @@
+1) Setup GitHub Repo
+   a) new environment
+   b) requirements.txt
+   c) setup.py
+
+2) Src folder and build package
+  
