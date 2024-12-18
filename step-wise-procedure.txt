@@ -8,6 +8,9 @@
    b) exception.py
    c) logger.py
    d) build package
-   
+3) Notebooks 
+  a) load the dataset
+  b) EDA
+  c) model training   
 
   
